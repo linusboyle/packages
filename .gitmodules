@@ -1,0 +1,15 @@
+[submodule "opt/dracula"]
+	path = opt/dracula
+	url = https://github.com/dracula/vim.git
+[submodule "opt/gruvbox"]
+	path = opt/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "opt/palenight"]
+	path = opt/palenight
+	url = https://github.com/drewtempelmeyer/palenight.vim.git
+[submodule "opt/tender"]
+	path = opt/tender
+	url = https://github.com/jacoborus/tender.vim.git
+[submodule "opt/monokai"]
+	path = opt/monokai
+	url = https://github.com/crusoexia/vim-monokai.git
