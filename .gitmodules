@@ -13,3 +13,6 @@
 [submodule "opt/monokai"]
 	path = colors/opt/monokai
 	url = https://github.com/crusoexia/vim-monokai.git
+[submodule "debug/opt/vim-scriptease"]
+	path = debug/opt/vim-scriptease
+	url = https://github.com/tpope/vim-scriptease
