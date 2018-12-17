@@ -19,3 +19,6 @@
 [submodule "util/start/vim-header"]
 	path = util/start/vim-header
 	url = https://github.com/alpertuna/vim-header.git
+[submodule "util/start/quick-scope"]
+	path = util/start/quick-scope
+	url = https://github.com/unblevable/quick-scope
