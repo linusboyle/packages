@@ -46,3 +46,48 @@
 [submodule "complete/start/YouCompleteMe"]
 	path = complete/start/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "util/start/delimitMate"]
+	path = util/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "util/start/echodoc.vim"]
+	path = util/start/echodoc.vim
+	url = https://github.com/Shougo/echodoc.vim.git
+[submodule "util/start/LeaderF"]
+	path = util/start/LeaderF
+	url = https://github.com/Yggdroot/LeaderF.git
+[submodule "util/start/nerdcommenter"]
+	path = util/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "util/start/nerdtree"]
+	path = util/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "util/start/tabular"]
+	path = util/start/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "util/start/undotree"]
+	path = util/start/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "util/start/vim-devicons"]
+	path = util/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "util/start/vim-easymotion"]
+	path = util/start/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "util/start/vim-grepper"]
+	path = util/start/vim-grepper
+	url = https://github.com/mhinz/vim-grepper.git
+[submodule "util/start/vim-repl"]
+	path = util/start/vim-repl
+	url = https://github.com/sillybun/vim-repl.git
+[submodule "util/start/vim-signature"]
+	path = util/start/vim-signature
+	url = https://github.com/kshenoy/vim-signature.git
+[submodule "util/start/vim-startify"]
+	path = util/start/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
+[submodule "util/start/vim-surround"]
+	path = util/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "util/start/vim-unimpaired"]
+	path = util/start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
