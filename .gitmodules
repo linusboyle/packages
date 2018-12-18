@@ -28,3 +28,12 @@
 [submodule "filetype/start/vim-vue"]
 	path = filetype/start/vim-vue
 	url = https://github.com/posva/vim-vue.git
+[submodule "filetype/start/typescript-vim"]
+	path = filetype/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "filetype/start/vim-markdown"]
+	path = filetype/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "filetype/start/vim-cpp-enhanced-highlight"]
+	path = filetype/start/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
