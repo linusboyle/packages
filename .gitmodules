@@ -41,10 +41,10 @@
 	path = util/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "complete/start/YCM-Generator"]
-	path = complete/start/YCM-Generator
+	path = complete/opt/YCM-Generator
 	url = https://github.com/rdnetto/YCM-Generator.git
 [submodule "complete/start/YouCompleteMe"]
-	path = complete/start/YouCompleteMe
+	path = complete/opt/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
 [submodule "util/start/delimitMate"]
 	path = util/start/delimitMate
