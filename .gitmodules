@@ -67,9 +67,6 @@
 [submodule "util/start/undotree"]
 	path = util/start/undotree
 	url = https://github.com/mbbill/undotree.git
-[submodule "util/start/vim-devicons"]
-	path = util/start/vim-devicons
-	url = https://github.com/ryanoasis/vim-devicons.git
 [submodule "util/start/vim-easymotion"]
 	path = util/start/vim-easymotion
 	url = https://github.com/Lokaltog/vim-easymotion.git
