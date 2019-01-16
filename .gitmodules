@@ -58,9 +58,6 @@
 [submodule "util/start/nerdcommenter"]
 	path = util/start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
-[submodule "util/start/nerdtree"]
-	path = util/start/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule "util/start/tabular"]
 	path = util/start/tabular
 	url = https://github.com/godlygeek/tabular.git
