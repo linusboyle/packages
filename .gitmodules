@@ -86,3 +86,12 @@
 [submodule "complete/opt/YouCompleteMe"]
 	path = complete/opt/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "util/start/asyncrun.vim"]
+	path = util/start/asyncrun.vim
+	url = https://github.com/skywind3000/asyncrun.vim
+[submodule "util/start/ultisnips"]
+	path = util/start/ultisnips
+	url = https://github.com/sirver/ultisnips
+[submodule "colors/start/base16-vim"]
+	path = colors/start/base16-vim
+	url = https://github.com/chriskempson/base16-vim
