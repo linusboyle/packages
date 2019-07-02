@@ -89,3 +89,6 @@
 [submodule "util/start/ultisnips"]
 	path = util/start/ultisnips
 	url = https://github.com/sirver/ultisnips
+[submodule "filetype/start/Coqtail"]
+	path = filetype/start/Coqtail
+	url = https://github.com/whonore/Coqtail
