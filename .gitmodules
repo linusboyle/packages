@@ -92,6 +92,3 @@
 [submodule "util/start/ultisnips"]
 	path = util/start/ultisnips
 	url = https://github.com/sirver/ultisnips
-[submodule "colors/start/base16-vim"]
-	path = colors/start/base16-vim
-	url = https://github.com/chriskempson/base16-vim
