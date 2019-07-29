@@ -40,9 +40,6 @@
 [submodule "util/start/delimitMate"]
 	path = util/start/delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
-[submodule "util/start/echodoc.vim"]
-	path = util/start/echodoc.vim
-	url = https://github.com/Shougo/echodoc.vim.git
 [submodule "util/start/LeaderF"]
 	path = util/start/LeaderF
 	url = https://github.com/Yggdroot/LeaderF.git
