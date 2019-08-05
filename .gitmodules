@@ -58,9 +58,6 @@
 [submodule "util/start/vim-grepper"]
 	path = util/start/vim-grepper
 	url = https://github.com/mhinz/vim-grepper.git
-[submodule "util/start/vim-repl"]
-	path = util/start/vim-repl
-	url = https://github.com/sillybun/vim-repl.git
 [submodule "util/start/vim-signature"]
 	path = util/start/vim-signature
 	url = https://github.com/kshenoy/vim-signature.git
