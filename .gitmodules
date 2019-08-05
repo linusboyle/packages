@@ -86,3 +86,6 @@
 [submodule "filetype/start/Coqtail"]
 	path = filetype/start/Coqtail
 	url = https://github.com/whonore/Coqtail
+[submodule "util/start/neomake"]
+	path = util/start/neomake
+	url = https://github.com/neomake/neomake
