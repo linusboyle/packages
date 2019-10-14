@@ -70,13 +70,6 @@
 [submodule "util/start/vim-unimpaired"]
 	path = util/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
-[submodule "complete/opt/YCM-Generator"]
-	path = complete/opt/YCM-Generator
-	url = https://github.com/rdnetto/YCM-Generator
-	branch = stable
-[submodule "complete/opt/YouCompleteMe"]
-	path = complete/opt/YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe
 [submodule "util/start/asyncrun.vim"]
 	path = util/start/asyncrun.vim
 	url = https://github.com/skywind3000/asyncrun.vim
