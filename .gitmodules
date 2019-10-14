@@ -82,3 +82,6 @@
 [submodule "util/start/neomake"]
 	path = util/start/neomake
 	url = https://github.com/neomake/neomake
+[submodule "util/start/targets.vim"]
+	path = util/start/targets.vim
+	url = https://github.com/wellle/targets.vim
