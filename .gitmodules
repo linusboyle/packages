@@ -1,6 +1,3 @@
-[submodule "opt/dracula"]
-	path = colors/opt/dracula
-	url = https://github.com/dracula/vim.git
 [submodule "opt/gruvbox"]
 	path = colors/opt/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
