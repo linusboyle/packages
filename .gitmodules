@@ -85,3 +85,6 @@
 [submodule "util/start/targets.vim"]
 	path = util/start/targets.vim
 	url = https://github.com/wellle/targets.vim
+[submodule "util/start/echodoc.vim"]
+	path = util/start/echodoc.vim
+	url = https://github.com/Shougo/echodoc.vim
